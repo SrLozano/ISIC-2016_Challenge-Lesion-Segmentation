@@ -82,7 +82,7 @@ Run *isic-2016-challenge-lesion-segmentation.ipynb* in order to train the select
 
 ## Results 📊
 
-**Jaccard score on test set: 0.815 **
+**Jaccard score on test set: 0.815**
 
 **Dice score on test set: 0.950**
 
