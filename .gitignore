@@ -1,0 +1,11 @@
+# Dataset folder
+dataset/
+
+# MacOs files
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__
